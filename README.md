@@ -6,6 +6,7 @@
 
 - **Frontend**: [https://moody-movie.web.app](https://moody-movie.web.app) (Firebase Hosting)
 - **Backend API**: [https://vladim82-moody-movie-api.hf.space](https://vladim82-moody-movie-api.hf.space) (Hugging Face Spaces)
+- **GitHub**: [https://github.com/vsanyanov-ux/moody-movie](https://github.com/vsanyanov-ux/moody-movie)
 
 ## 🛠 Технологии
 
