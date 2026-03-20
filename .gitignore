@@ -1,0 +1,12 @@
+node_modules/
+dist/
+venv/
+.env
+.firebase/
+.vscode/
+*.pyc
+__pycache__/
+.firebaserc
+firebase.json
+.antigravity/
+.gemini/
